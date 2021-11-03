@@ -1,0 +1,16 @@
+{
+  "name": "smoove",
+  "title": "jQuery Smoove - Efeitos",
+  "version": "1.0",
+  "description": ".",
+  "homepage": "http://smoove.js.org/",
+  "dependencies": {
+    "jquery": ">=1.7"
+  },
+  "keywords": [
+    "jquery",
+    "scroll",
+    "css",
+    "animation"
+  ]
+}
