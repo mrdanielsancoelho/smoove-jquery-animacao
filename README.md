@@ -1,0 +1,2 @@
+# smoove-jquery-animacao
+.
